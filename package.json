@@ -16,5 +16,8 @@
     "bugs": {
         "url": "https://github.com/toxac/contentChecker/issues"
     },
-    "homepage": "https://github.com/toxac/contentChecker#readme"
+    "homepage": "https://github.com/toxac/contentChecker#readme",
+    "dependencies": {
+        "syllable": "^4.0.1"
+    }
 }
