@@ -1,3 +1,9 @@
+/*
+  Description: Flesch-Kincaid Grade Level Readability
+  version:0.1.3
+  author: toxac @github
+*/
+
 const textProcessing = require('../utils/textProcessing');
 
 
