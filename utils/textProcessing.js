@@ -1,3 +1,5 @@
+const syllable = require('syllable');
+
 function wordsInSentence(sentence) {
     if (sentence.length > 0) {
         const wordArray = sentence.split(" ")
